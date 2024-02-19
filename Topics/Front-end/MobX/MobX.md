@@ -1,0 +1,4 @@
+
+
+Сущности MobX
+- computed
